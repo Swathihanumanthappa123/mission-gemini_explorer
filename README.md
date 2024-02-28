@@ -48,10 +48,6 @@ Once the application is running, you can interact with Gemini Explorer in the fo
 
 Contributions to Gemini Explorer are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
-
 ## Acknowledgements
 
 Gemini Explorer is built using Streamlit and Vertex AI's generative models. Special thanks to the teams behind these technologies for their contributions to open-source software development.
